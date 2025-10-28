@@ -1,4 +1,6 @@
 Programming Language that supports multiple languages as the syntax
+Uses a bytecode Interpreter
+
 
 fun void main(){
   a = 5;
